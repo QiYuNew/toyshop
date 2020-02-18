@@ -1,0 +1,22 @@
+string header
+float64 latitude
+float64 longitude
+float64 alt
+float64 utm_easting
+float64 utm_northing
+int64 zone
+string letter
+
+float64 imu_x
+float64 imu_y
+float64 imu_z
+float64 imu_w
+float64 magnetic_x
+float64 magnetic_y
+float64 magnetic_z
+float64 acc_x
+float64 acc_y
+float64 acc_z
+float64 angular_x
+float64 angular_y
+float64 angular_z
